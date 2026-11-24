@@ -25,7 +25,7 @@
 
 1.  Apne local machine par is repository ko clone karein:
     ```bash
-    git clone https://github.com/khdxsohee/PlantPal
+    git clone https://github.com/farhan-swe/PlantPal
     ```
 2.  Cloned folder mein navigate karein:
     ```bash
